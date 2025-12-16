@@ -10,6 +10,21 @@ TODO: add details
 
 ![Showcase](doc/Images/schematics.jpg)
 
+## Bill of materials (BOM)
+
+Chips:
+
+| ID       | Soviet  | Name     |
+| -------- | ------- | -------- |
+| DD1      | К555ТМ2 | SN74LS74 |
+| DD2      | К555ЛП5 | SN74LS86 |
+| DD3, DD5 | К555ЛН1 | SN74LS04 |
+| DD4      | К555ЛЛ1 | SN74LS32 |
+
+Other:
+
+- One 10 KOhm resistor
+- Three 104 ceramic capacitors
 
 ## Photo! running on the Game Gear using the GameBoy-to-GameGear adapter:
 ![Showcase](doc/Images/Showcase_GameGear.jpg)
