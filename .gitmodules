@@ -1,0 +1,3 @@
+[submodule "Game-Gear-Cartridge-Breakout"]
+	path = Game-Gear-Cartridge-Breakout
+	url = https://github.com/baldengineer/Game-Gear-Cartridge-Breakout
