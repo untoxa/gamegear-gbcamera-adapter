@@ -11,5 +11,5 @@ TODO: add details
 ![Showcase](doc/Images/schematics.jpg)
 
 
-## Photo! on a Game Gear with a Game Boy Mini Camera and the GameBoy-to-GameGear adapter prototype:
+## Photo! running on the Game Gear using the GameBoy-to-GameGear adapter:
 ![Showcase](doc/Images/Showcase_GameGear.jpg)
