@@ -28,6 +28,7 @@ TODO: add details
 - One Game Boy Cart connector
 - One PLD 2,54mm two row male connector
 - One PLD 2,54mm two row female connector
+- The standard Game Gear cart shell
 
 ## Photo! running on the Game Gear using the GameBoy-to-GameGear adapter:
 ![Showcase](doc/Images/Showcase_GameGear.jpg)
