@@ -2,5 +2,10 @@
 
 TODO: general description
 
-# Photo! on a Game Gear with a Game Boy Mini Camera and the GameBoy-to-GameGear adapter prototype:
+## Schematic
+
+![Showcase](doc/Images/Showcase_GameGear.jpg)
+
+
+## Photo! on a Game Gear with a Game Boy Mini Camera and the GameBoy-to-GameGear adapter prototype:
 ![Showcase](doc/Images/Showcase_GameGear.jpg)
