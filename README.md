@@ -1,8 +1,9 @@
-# The Game Boy carts to Game Gear adapter
+# Game Boy cartridge to Game Gear adapter
 
-This adapter was designed to be used with the Game Boy reflashable Camera, which is running the build of "Photo!" ROM for the Game Gear - the custom Game Boy Camera ROM, which may be downloaded here: https://github.com/untoxa/gb-photo/releases/latest/
+This adapter was designed to be used with reflashable Game Boy Cameras running the Game Gear version of the "Photo!" ROM,
+which is a custom Game Boy Camera ROM. It can be downloaded here: https://github.com/untoxa/gb-photo/releases/latest/
 
-Beside "Photo!", you can run your own homebrew ROMs for the Game Gear using the reflashable carts for the Game Boy, but this adapter will not allow to play the Game Boy games on the Game Gear without rewriting them.
+In addition to "Photo!" this adapter can be used to run your own Game Gear homebrew ROMs on reflashable Game Boy carts. However this adapter will not allow playing Game Boy games on the Game Gear without rewriting them.
 
 TODO: add details
 
